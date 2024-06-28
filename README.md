@@ -2,6 +2,8 @@ Hi there 👋, I am Kuldip! 😁
 
 Hello, my name is Kuldip Ramavat, and I am pursuing a B.E. in Electronics and Communication Engineering at L. D. College of Engineering. As a cybersecurity enthusiast, I specialize in Python, Kali Linux, Operating Systems, Networks, and VAPT. Currently, I'm diving into the world of blockchain. My passion lies in securing systems, protecting data, and staying ahead of cyber threats. When I'm not coding, you can find me enjoying my favorite anime series.
 
+I love engaging in discussions about: Cyber Security, Networks, Linux, VAPT, Python
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kuldip ramavat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuldip ramavat" height="30" width="40" /></a>
